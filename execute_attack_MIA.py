@@ -157,6 +157,7 @@ def attackModel(dataset, model):
 
 path = 'models/'
 ignoreFolder = ["ciphar10"]
+ignoreFolder = []
 files = os.listdir(path)
 done = False
 for f in files:
