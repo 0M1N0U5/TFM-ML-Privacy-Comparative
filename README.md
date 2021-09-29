@@ -14,8 +14,11 @@
 
 ## Ficheros de apoyo
 
-**loadDatasets**: Carga y devuelve los datasets pasados como parámetro
-**loadFlags**: Devuelve los flags de entrenamiento oportunos para el dataset pasado como parámetro
-**loadModel**: Crea y devuelve el modelo para el dataset pasado como parámetro
+**loadDatasets**: Carga y devuelve los datasets pasados como parámetro.
+
+**loadFlags**: Devuelve los flags de entrenamiento oportunos para el dataset pasado como parámetro.
+
+**loadModel**: Crea y devuelve el modelo para el dataset pasado como parámetro.
+
 **loadOptimizer**: Crea y devuelve el optimizador y funcion error para el dataset y los flags pasados como parámetros.
 
